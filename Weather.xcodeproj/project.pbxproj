@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		F88F58732C4B03D500144F1F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F58722C4B03D500144F1F /* AppDelegate.swift */; };
 		F88F58752C4B03D500144F1F /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F58742C4B03D500144F1F /* SceneDelegate.swift */; };
-		F88F58772C4B03D500144F1F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F88F58762C4B03D500144F1F /* ViewController.swift */; };
 		F88F587A2C4B03D500144F1F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F88F58792C4B03D500144F1F /* Base */; };
 		F88F587C2C4B03D700144F1F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F88F587B2C4B03D700144F1F /* Assets.xcassets */; };
 		F88F587F2C4B03D700144F1F /* Base in Resources */ = {isa = PBXBuildFile; fileRef = F88F587E2C4B03D700144F1F /* Base */; };
@@ -27,7 +26,6 @@
 		F88F586F2C4B03D500144F1F /* Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Weather.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F88F58722C4B03D500144F1F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F88F58742C4B03D500144F1F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		F88F58762C4B03D500144F1F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F88F58792C4B03D500144F1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F88F587B2C4B03D700144F1F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F88F587E2C4B03D700144F1F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -79,7 +77,6 @@
 				F88F58932C4D1CE900144F1F /* Extensions */,
 				F88F58722C4B03D500144F1F /* AppDelegate.swift */,
 				F88F58742C4B03D500144F1F /* SceneDelegate.swift */,
-				F88F58762C4B03D500144F1F /* ViewController.swift */,
 				F88F58892C4B070F00144F1F /* WeatherController.swift */,
 				F88F588B2C4B07D400144F1F /* WeatherCell.swift */,
 				F88F58782C4B03D500144F1F /* Main.storyboard */,
@@ -193,7 +190,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				F88F58952C4D1CFF00144F1F /* String.swift in Sources */,
-				F88F58772C4B03D500144F1F /* ViewController.swift in Sources */,
 				F88F589A2C4D241300144F1F /* HapticManager.swift in Sources */,
 				F88F58732C4B03D500144F1F /* AppDelegate.swift in Sources */,
 				F88F58972C4D231400144F1F /* UIView.swift in Sources */,
