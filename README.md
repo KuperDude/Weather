@@ -10,9 +10,11 @@ Weather Animation App is an iOS application developed using UIKit that allows us
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fb409d3d-e14c-4ad1-bcb5-d586efcce970" width="200" alt="Screenshot 1">
-  <img src="https://github.com/user-attachments/assets/775e7dca-e04d-49ac-9837-3775d8d1616b" width="200" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/819705db-d282-44c2-91d2-bde6fa28fba9" width="200" alt="Screenshot 1">
+  <img src="https://github.com/user-attachments/assets/fb409d3d-e14c-4ad1-bcb5-d586efcce970" width="200" alt="Screenshot 2">
+  <img src="https://github.com/user-attachments/assets/775e7dca-e04d-49ac-9837-3775d8d1616b" width="200" alt="Screenshot 3">
 </p>
+
 
 ## Installation
 
