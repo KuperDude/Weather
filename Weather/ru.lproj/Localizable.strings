@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by MyBook on 21.07.2024.
+  
+*/
+
+"sunny"    = "Ясно";
+"cloudy"   = "Облачно";
+"overcast" = "Пасмурно";
+"storm"    = "Гроза";
+"foggy"    = "Туман";
+"snowfall" = "Снегопад";
+"hail"     = "Град";

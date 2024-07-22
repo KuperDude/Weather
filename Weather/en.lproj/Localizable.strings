@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  Weather
+
+  Created by MyBook on 21.07.2024.
+  
+*/
+
+"sunny"    = "Sunny";
+"cloudy"   = "Cloudy";
+"overcast" = "Overcast";
+"storm"    = "Storm";
+"foggy"    = "Foggy";
+"snowfall" = "Snowfall";
+"hail"     = "Hail";
