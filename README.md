@@ -47,5 +47,5 @@ Weather Animation App is an iOS application developed using UIKit that allows us
 
 ## Contact
 
-For any questions or suggestions, please open an issue or contact [my email](fieldsdev06@gmail.com).
+For any questions or suggestions, please open an issue or contact fieldsdev06@gmail.com.
 
